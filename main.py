@@ -15,7 +15,7 @@ pygame.display.set_caption("Punk Battle")
 
 # Set frame rate
 clock = pygame.time.Clock()
-FPS = 60
+FPS = 65
 
 # Define colors
 RED = (238, 40, 65)
@@ -38,6 +38,7 @@ GOD_SIZE = 200
 GOD_SCALE = 3
 GOD_OFFSET = [82, 65]
 GOD_DATA = [GOD_SIZE, GOD_SCALE, GOD_OFFSET]
+
 WARRIOR_SIZE = 162
 WARRIOR_SCALE = 3.5
 WARRIOR_OFFSET = [65, 53]

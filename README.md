@@ -10,4 +10,4 @@ Currently in development, the game aims to deliver an exciting arcade-style expe
 
 ## Game running prerequisite
 
-run install `pip3 install pygame`
+run install `pip3 install pygame`, and then run your python file in the `main.py`
